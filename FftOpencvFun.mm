@@ -9,6 +9,7 @@
 #include "FftOpencvFun.h"
 
 void showtest(){
-    printf("qwe");
+    printf("succeed");
+    
 }
 
